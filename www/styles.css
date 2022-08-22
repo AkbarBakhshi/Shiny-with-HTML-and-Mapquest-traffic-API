@@ -1,0 +1,18 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  background: #1d1d1d;
+  color: white;
+}
+
+h1 {
+  color: red;
+}
+
+table {
+  font-size: 12px;
+}
+
+thead tr th {
+  color: white;
+  font-size: 14px;
+}
